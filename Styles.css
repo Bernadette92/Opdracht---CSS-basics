@@ -1,0 +1,18 @@
+@font-face {
+    src: url(ShipporiMincho-Regular.ttf);
+    font-family: Ship;
+}
+
+body { 
+    color: #445a67;
+    background-color: #f6f7fb;
+    font-family: ship;
+}
+h1{border: 1px solid #445a67;
+    line-height: 1.6em ;}
+
+
+
+nav {font-size:smaller;}
+
+
